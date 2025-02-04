@@ -1,0 +1,1 @@
+COMMIT; -- end the transation and added changes to the db
